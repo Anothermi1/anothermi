@@ -9,13 +9,8 @@
 - Telegram | Telegram : [Telegram@ItsMeKakashii](https://t.me/ItsMeKakashii)
 - GitHub | GitHub : [Github@Anothermi](https://github.com/Anothermi1)
 
-### Motto | 人生信条
-
-- 判天地之美，析万物之理，察古人之全。寡能备于天地之美，称神明之容。 --《庄子•天下》
-
-
 <!--
-**EndCredits/EndCredits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![EndCredits's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndCredits&theme=vue)
-![EndCredits's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCredits&theme=vue)
+![Anothermi1's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anothermi1&theme=vue)
+![Anothermi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anothermi1&theme=vue)
