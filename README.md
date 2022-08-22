@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi , Here is Anothermi
+# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi , Here is Anothermi a.k.a Kakashi
 
 ### About me 
 
-- Kakashi, A Pro noob. 
+- Just A Pro noob. 
 
 ### Contact me 
 
