@@ -3,6 +3,7 @@
 ### About me 
 
 - Just A Pro noob. 
+- Students from ITG (Institut Teknologi Garut) from the Informatics Engineering study program 
 
 ### Contact me 
 
