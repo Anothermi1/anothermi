@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi , Here is Anothermi a.k.a Kakashi and my real name Romi Yusnandar 
+# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi , Here is Anothermi a.k.a Kakashi and my real name is Romi Yusnandar 
 
 ### About me 
 
