@@ -7,7 +7,7 @@
 
 ### Contact me 
 
-- Telegram | Telegram : [Telegram@ItsMeKakashii](https://t.me/ItsMeKakashii)
+- Telegram | Telegram : [Telegram@romiyusnandar](https://t.me/romiyusnandar)
 - GitHub | GitHub : [Github@Anothermi](https://github.com/Anothermi1)
 
 
