@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 # 📱 Devices
 ![Xiaomi Mi A1](https://img.shields.io/badge/Xiaomi%20Mi%20A1-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
