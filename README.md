@@ -3,7 +3,7 @@
 ### About me 
 
 - Just A Pro noob. 
-- from Informatics Engineering study program 
+- First Semester Students
 
 ### Contact me 
 
