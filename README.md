@@ -3,7 +3,7 @@
 ### About me 
 
 - Just A Pro noob. 
-- First Semester Students
+- 2nd Smester Students
 
 ### Contact me 
 
