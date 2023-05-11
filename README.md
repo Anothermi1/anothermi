@@ -10,8 +10,8 @@
 - Telegram | Telegram : [Telegram@romiyusnandar](https://t.me/romiyusnandar)
 - GitHub | GitHub : [Github@Anothermi](https://github.com/Anothermi1)
 
-<!-- ![Anothermi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anothermi1&show_icons=true&include_all_commits=true&theme=radical)
--->
+[Anothermi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anothermi1&show_icons=true&include_all_commits=true&theme=radical)
+
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
