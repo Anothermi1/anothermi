@@ -20,6 +20,7 @@
 # 📱 Devices
 ![Xiaomi Mi A1](https://img.shields.io/badge/Xiaomi%20Mi%20A1-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 7](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%207-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Anothermi1&longCache=true)](https://github.com/Anothermi1) -->
 <img src="https://komarev.com/ghpvc/?username=Anothermi1&style=flat-square" alt="Anothermi1" /><br>
