@@ -1,16 +1,29 @@
-# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is Anothermi a.k.a Romi Yusnandar 
+# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is [sirNewbies](https://t.me/sirNewbies)!
 
-### About me 
+<!-- <a href="https://t.me/zhantech">
+<img align="left" alt="ZHANtech's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/zhantech">
+<img align="left" alt="ZHANtech's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/zhantech">
+<img align="left" alt="ZHANtech's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- Just A Pro noob. 
-- 2nd Smester Students
+![](https://komarev.com/ghpvc/?username=zhantech) -->
 
-### Contact me 
+-------
 
-- Telegram | Telegram : [Telegram@romiyusnandar](https://t.me/romiyusnandar)
-- GitHub | GitHub : [Github@Anothermi](https://github.com/Anothermi1)
+- I'm from Indonesia.
+- I'm just do whatever i want hehe....
 
-[Yusna21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusna21&show_icons=true&include_all_commits=true&theme=radical)
+-------
+
+<p>
+  <a href="https://github.com/yusna21">
+    <img width="55%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yusna21&show_icons=true&hide_border=true" />
+  </a>
+</p>
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
