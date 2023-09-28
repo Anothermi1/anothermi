@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://github.com/yusna21">
-    <img width="55%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yusna21&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirnewbies&show_icons=true&hide_border=true" />
   </a>
 </p>
 
