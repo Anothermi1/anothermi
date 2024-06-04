@@ -15,13 +15,15 @@
 -------
 
 - I'm from Indonesia.
-- I'm just a noob dev
+- Core-dev & web design OrionOS-Prjkt
+- Maintainer Tissot & Sweet
+- I'm just a noob dev :)
 
 -------
 
 <div>
   <a href="https://github.com/yusna21">
-    <img width="100%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirnewbies&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirnewbies&show_icons=true&hide_border=true" />
   </a>
 </div>
 
@@ -36,4 +38,4 @@
 <!-- ![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff) -->
 
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Anothermi1&longCache=true)](https://github.com/Anothermi1) -->
-<img src="https://komarev.com/ghpvc/?username=Anothermi1&style=flat-square" alt="Anothermi1" /><br>
+<img src="https://komarev.com/ghpvc/?username=Anothermi1&style=flat-square" alt="sirnewbies" /><br>
