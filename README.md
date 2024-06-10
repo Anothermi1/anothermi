@@ -22,8 +22,8 @@
 -------
 
 <div>
-  <a href="https://github.com/yusna21">
-    <img width="50%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirnewbies&show_icons=true&hide_border=true" />
+  <a href="https://github.com/romiyusnandar">
+    <img width="50%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romiyusnandar&show_icons=true&hide_border=true" />
   </a>
 </div>
 
