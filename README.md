@@ -65,4 +65,6 @@
  </p>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=romiyusnandar&style=flat-square" alt="romiyusnandar" /><br>
+<div align="center">
+     <img src="https://komarev.com/ghpvc/?username=romiyusnandar&style=flat-rounded" alt="romiyusnandar" /><br>
+</div>
