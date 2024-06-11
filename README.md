@@ -1,4 +1,9 @@
-# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is [Romi Yusnandar](https://t.me/sirNewbies)!
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=4000&pause=1500&color=F72F77&center=true&vCenter=true&random=false&width=435&lines=Hi!;Here+is+Romi+Yusnandar;Let's+connect!+" alt="Typing SVG" /></a>
+</div>
+<!--# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is [Romi Yusnandar](https://t.me/sirNewbies)!
+
+-->
 
 <!-- <a href="https://t.me/zhantech">
 <img align="left" alt="ZHANtech's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -21,11 +26,19 @@
 
 -------
 
-<div>
-  <a href="https://github.com/romiyusnandar">
-    <img width="50%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romiyusnandar&show_icons=true&hide_border=true" />
-  </a>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b>Github Stats </b>
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=romiyusnandar&theme=radical)](https://git.io/streak-stats)
+
+![Your Github Statistic](https://github-readme-stats.vercel.app/api?username=romiyusnandar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romiyusnandar&layout=compact&theme=radical)
 </div>
+
+<br>
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
@@ -38,4 +51,18 @@
 <!-- ![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff) -->
 
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Anothermi1&longCache=true)](https://github.com/Anothermi1) -->
-<img src="https://komarev.com/ghpvc/?username=Anothermi1&style=flat-square" alt="sirnewbies" /><br>
+<br>
+
+## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width="80"><b>Let's Connect</b>
+
+<br>
+<div align='left'>
+
+<p align="center">
+  <a href="https://github.com/romiyusnandar"><img alt="Github" title="Romi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto: yusromi04@gmail.com"><img alt="Gmail" title="Romi Yusnandar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/romiyusna"><img alt="Telegram" title="Romi Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+ </p>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=romiyusnandar&style=flat-square" alt="romiyusnandar" /><br>
