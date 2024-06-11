@@ -17,14 +17,12 @@
 
 ![](https://komarev.com/ghpvc/?username=zhantech) -->
 
--------
+<hr>
 
 - I'm from Indonesia.
 - Core-dev & web design OrionOS-Prjkt
 - Maintainer Tissot & Sweet
 - I'm just a noob dev :)
-
--------
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b>Github Stats </b>
 <br>
@@ -40,14 +38,24 @@
 
 <br>
 
-# 💻 Environment
+<div>
+  <h2 align="center">Most Used Language In My Projects</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,kotlin,java,nextjs,mysql,react,html,css,vscode,github,tailwind,git" />
+</div>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,bootstrap" /><br>
+</div>
+
+## 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
-# 📱 Devices
+## 📱 Devices
 ![Xiaomi Mi A1](https://img.shields.io/badge/Xiaomi%20Mi%20A1-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 10 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2010%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
 <!-- ![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff) -->
 
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Anothermi1&longCache=true)](https://github.com/Anothermi1) -->
