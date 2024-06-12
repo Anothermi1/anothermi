@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=2500&pause=1500&color=FF3183&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=135&lines=Hi+%F0%9F%91%8B;Here+is+Romi+Yusnandar+%F0%9F%A4%9D;Let's+connect+%F0%9F%93%B2" alt="Typing SVG" /></a>
+</div>
 <!--# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is [Romi Yusnandar](https://t.me/sirNewbies)!
 
 -->
