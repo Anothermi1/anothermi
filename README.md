@@ -44,7 +44,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,kotlin,java,nextjs,mysql,react,html,css,vscode,github,tailwind,git" />
 </div>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,bootstrap" /><br>
+  </div>
 </div>
 
 ## 💻 Environment
