@@ -1,6 +1,11 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=2500&pause=1500&color=FF3183&center=true&vCenter=true&multiline=true&random=false&width=435&height=135&lines=Hi+%F0%9F%91%8B;Here+is+Romi+Yusnandar+%F0%9F%A4%9D;Let's+connect+%F0%9F%93%B2" alt="Typing SVG" /></a>
 </div>
+
+<div align="center">
+     <img src="https://komarev.com/ghpvc/?username=romiyusnandar&style=flat-rounded" alt="romiyusnandar" />
+     <img src="https://img.shields.io/github/stars/romiyusnandar?style=flat-rounded" alt="romiyusnandar" />
+</div>
 <!--# <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="50px"> Hi <img src="https://github.com/Bogdan-Torkhov/Bogdan-Torkhov/blob/main/assets/Hi.gif" width="30px">, Here is [Romi Yusnandar](https://t.me/sirNewbies)!
 
 -->
@@ -73,8 +78,4 @@
   <a href="mailto: yusromi04@gmail.com"><img alt="Gmail" title="Romi Yusnandar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/romiyusna"><img alt="Telegram" title="Romi Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  </p>
-</div>
-
-<div align="center">
-     <img src="https://komarev.com/ghpvc/?username=romiyusnandar&style=flat-rounded" alt="romiyusnandar" /><br>
 </div>
